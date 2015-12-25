@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>JSONJoy-Swift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Mixpanel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-ObenHeight.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Signals.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftHTTP.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>14B44F486E4392CA7E416340ABBB1EC7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>35F36BEEF03C39C9EB04652B035F4765</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>44C3A002828600730202D7159EF9489C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>68C982E196026AB6C90F36BC6A5220EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BE8838242BC495A114F3C00BFBD60D22</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

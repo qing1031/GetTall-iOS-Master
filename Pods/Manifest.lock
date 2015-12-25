@@ -1,0 +1,28 @@
+PODS:
+  - Crashlytics (3.4.1):
+    - Fabric (~> 1.6.0)
+  - Fabric (1.6.1)
+  - JSONJoy-Swift (1.0.0)
+  - Mixpanel (2.9.1):
+    - Mixpanel/Mixpanel (= 2.9.1)
+  - Mixpanel/Mixpanel (2.9.1)
+  - Signals (2.1.0)
+  - SwiftHTTP (1.0.2)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - JSONJoy-Swift
+  - Mixpanel
+  - Signals
+  - SwiftHTTP
+
+SPEC CHECKSUMS:
+  Crashlytics: 41574a245bc6ae10c55d57f385ebd2004e5bee05
+  Fabric: bf0ceb04e7c924090efc5f8c55e4fbcca189e0a0
+  JSONJoy-Swift: 3e8129c282470614da69759208e9c923732f6cb4
+  Mixpanel: 5ca24b2a05f4c77fe9bcfe7671d681d0f3f8d76f
+  Signals: a6114179339fa648120f64bb3acd0472965d45d9
+  SwiftHTTP: 6d8ca031a9ce613a01e8f18b497503887b0b50c0
+
+COCOAPODS: 0.39.0
